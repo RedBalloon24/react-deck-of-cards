@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-deck-of-cards/static/css/main.83020156.chunk.css",
+    "main.js": "/react-deck-of-cards/static/js/main.091e3b96.chunk.js",
+    "main.js.map": "/react-deck-of-cards/static/js/main.091e3b96.chunk.js.map",
+    "runtime-main.js": "/react-deck-of-cards/static/js/runtime-main.d0168346.js",
+    "runtime-main.js.map": "/react-deck-of-cards/static/js/runtime-main.d0168346.js.map",
+    "static/js/2.cc270a8a.chunk.js": "/react-deck-of-cards/static/js/2.cc270a8a.chunk.js",
+    "static/js/2.cc270a8a.chunk.js.map": "/react-deck-of-cards/static/js/2.cc270a8a.chunk.js.map",
+    "index.html": "/react-deck-of-cards/index.html",
+    "precache-manifest.5f1bcc7710882ee7306f34fb659bee9f.js": "/react-deck-of-cards/precache-manifest.5f1bcc7710882ee7306f34fb659bee9f.js",
+    "service-worker.js": "/react-deck-of-cards/service-worker.js",
+    "static/css/main.83020156.chunk.css.map": "/react-deck-of-cards/static/css/main.83020156.chunk.css.map",
+    "static/js/2.cc270a8a.chunk.js.LICENSE.txt": "/react-deck-of-cards/static/js/2.cc270a8a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0168346.js",
+    "static/js/2.cc270a8a.chunk.js",
+    "static/css/main.83020156.chunk.css",
+    "static/js/main.091e3b96.chunk.js"
+  ]
+}
